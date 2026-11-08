@@ -1,0 +1,10 @@
+﻿__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.venv
+node_modules
+chatgpt_profiles
+gemini_chrome_profile
+temp_cdp_profile
